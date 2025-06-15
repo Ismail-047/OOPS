@@ -15,11 +15,11 @@ public:
     string brand;
 };
 
-//  ┌---------------------------------------------------------------------------------------------------------┐
-//  │     NOTE: BY DEFAULT IF NO ACCESS SEPCIFIER IS MENTIONED ALL THE METHODS AND PROPERTIES ARE             |
-//  |          IN CLASS : PRIVATE                                                                             |
-//  |          IN STRUCT : PUBLIC                                                                             |  
-//  └---------------------------------------------------------------------------------------------------------┘
+//  ┌-------------------------------------------------------------------------------------------------┐
+//  │     NOTE: BY DEFAULT IF NO ACCESS SEPCIFIER IS MENTIONED ALL THE METHODS AND PROPERTIES ARE     │
+//  │             IN CLASS : PRIVATE                                                                  │
+//  │             IN STRUCT : PUBLIC                                                                  │  
+//  └-------------------------------------------------------------------------------------------------┘
 
 //  ---------------------------- 2. PRIVATE ----------------------------  
 //  CAN BE ACCESSED ONLY WITHIN THE CLASS

@@ -4,7 +4,6 @@
 //      SETTERS - SET A PRIVATE VALUE
 
 // REAL LIFE EXAMPLE 
-//
 // THINK OF A TV 
 //      YOU CANT DIRECLTY TOUCH ITS INTERNAL PARTS (private)
 //      BUT YOU CAN USE REMOTE TO
@@ -16,13 +15,11 @@ private:
     int age;
 
 public:
-    // SETTER
-    void setAge(int a) {
+    void setAge(int a) { // SETTER
         if (a > 0) age = a;
     }
 
-    // GETTER
-    int getAge() {
+    int getAge() { // GETTER
         return age;
     }
 };
